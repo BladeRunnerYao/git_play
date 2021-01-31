@@ -1,6 +1,3 @@
 M1
 M2
-<<<<<<< HEAD
 M3
-=======
->>>>>>> origin/feature/F
